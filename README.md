@@ -1,5 +1,7 @@
 # loopback-example-passport
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/loopback-example-passport.svg)](https://greenkeeper.io/)
+
 A tutorial for setting up a basic passport example.
 
 - [Overview](#overview)
